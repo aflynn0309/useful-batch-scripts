@@ -1,0 +1,27 @@
+list disk
+sel disk 4
+list par
+sel par 1
+del par override
+sel par 2
+del par override
+sel par 3
+del par override
+sel par 4
+del par override
+sel par 5
+del par override
+sel par 6
+del par override
+sel par 7
+del par override
+sel par 8
+del par override
+sel par 9
+del par override
+sel par 10
+del par override
+sel par 11
+del par override
+sel par 12
+del par override
